@@ -1,0 +1,3 @@
+# Example Modal JS
+
+Example modal for my personal learning...
